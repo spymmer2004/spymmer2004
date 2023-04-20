@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ashish
-- 👀 I’m interested in DevOps and Kubernetes!
-- 🌱 I’m currently trying to make inroads into DevOps!!
+-]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
